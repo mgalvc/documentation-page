@@ -1,0 +1,34 @@
+nav header {
+    text-align: center;
+    padding: 15px;
+    font-size: 1.2em;
+}
+
+nav {
+    border-right: 1px solid black;
+    height: 100%;
+    position: fixed;
+    width: 200px;
+}
+
+nav .nav-item {
+    border-top: 1px solid black;
+}
+
+main {
+    padding-top: 30px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+main header {
+    font-size: 1.4em;
+}
+
+code {
+    padding: 10px;
+}
+
+.code {
+    margin-bottom: 15px;
+}
